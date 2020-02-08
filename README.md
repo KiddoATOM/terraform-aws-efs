@@ -85,3 +85,11 @@ Please verify that both DNS Resolution and DNS Hostnames are enabled for your VP
 For more information refer to AWS official documentation:
 [Link1](https://docs.aws.amazon.com/efs/latest/ug/mount-fs-auto-mount-onreboot.html)
 [Link2](https://docs.aws.amazon.com/efs/latest/ug/using-amazon-efs-utils.html#installing-other-distro)
+
+## Authors
+
+Module managed by [Santiago Zurletti](https://github.com/KiddoATOM).
+
+## License
+
+Apache 2 Licensed. See LICENSE for full details.
